@@ -20,8 +20,8 @@
         }
     ],
     "require": {
-        "illuminate/http": "^8.83|^9.0.1",
-        "illuminate/support": "^8.83|^9.0.1|10.0|11.0",
+        "illuminate/http": "^9.35|^10.5|^11.0",
+        "illuminate/support": "^9.35|^10.5|^11.0",
         "rennokki/laravel-sns-events": "dev-l11-compatibility"
     },
     "autoload": {
